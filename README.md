@@ -50,5 +50,5 @@ npm run build
 
 ## 🌟 Credits
 
-This project was created with ❤️ by [S.P.Naga Sujti)(https://protofolio-tau-two.vercel.app/).
+This project was created with ❤️ by [S.P.Naga Sujit)(https://protofolio-tau-two.vercel.app/).
 If you like it, feel free to ⭐ this repository and share!
